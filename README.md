@@ -1,2 +1,2 @@
 # converter
-An length measure converter in JS
+Length measure converter in JS
